@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projects related to java
 - 📫 How to reach me chantithotamsetty@gmail.com
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/77598/screenshots/12121015/media/60ae7434db53870a1e024380bbcf255c.gif">
 <h1 align="center">Hi 👋, I'm Surya Thotamsetty</h1>
 <h3 align="center">A CSE student who is very much interested in coding and designing. I am a person who loves to meet new people and interact with them. I also like to explore new things.</h3>
 
