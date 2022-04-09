@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Thotamsetty</h1>
 <h3 align="center">A CSE student who is very much interested in Web Dev. I am a person who loves to meet new people and interact with them. I also like to explore new things. I am currently learning java and i am looking to collaborate on projects related to java.</h3>
 
-- 📫 How to reach me tthotams@gitam.in
+
 
 
 
