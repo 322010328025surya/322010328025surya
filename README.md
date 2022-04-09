@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @Surya-Thotamsetty
-- 👀 I’m interested in Web Dev 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Projects related to java
-- 📫 How to reach me chantithotamsetty@gmail.com
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/77598/screenshots/12121015/media/60ae7434db53870a1e024380bbcf255c.gif">
 <h1 align="center">Hi 👋, I'm Surya Thotamsetty</h1>
-<h3 align="center">A CSE student who is very much interested in coding and designing. I am a person who loves to meet new people and interact with them. I also like to explore new things.</h3>
+<h3 align="center">A CSE student who is very much interested in Web Dev. I am a person who loves to meet new people and interact with them. I also like to explore new things. I am currently learning java and i am looking to collaborate on projects related to java.</h3>
+
+- 📫 How to reach me tthotams@gitam.in
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-thotamsetty&label=Profile%20views&color=0e75b6&style=flat" alt="surya-thotamsetty" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya-thotamsetty" alt="surya-thotamsetty" /></a> </p>
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **tthotams@gitam.in**
 
 - ⚡ Fun fact **I am a person who is not scared of heights**
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/77598/screenshots/12121015/media/60ae7434db53870a1e024380bbcf255c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
