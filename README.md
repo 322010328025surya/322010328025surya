@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java and python**
 
-- 📫 How to reach me **tthotams@gitam.in**
+- 📫 How to reach me **suryathotamsetty02@gmail.com**
 
 - ⚡ Fun fact **I am a person who is not scared of heights**
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/77598/screenshots/12121015/media/60ae7434db53870a1e024380bbcf255c.gif">
